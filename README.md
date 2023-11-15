@@ -1,4 +1,5 @@
 TECHONOLOGIES AND LIBRARIES
+
 MVVM
 HILT
 COROUTINES
@@ -10,9 +11,11 @@ RETROFIT
 NAVIGATION COMPONENT
 
 📹 Video
+
 https://drive.google.com/file/d/1AXHNM3M9CrVXjkxR4eYf71r4699MS0TN/view?usp=sharing
 
 💫 Presentation
+
 [SezenUlupinar-UPSchool.pdf](https://github.com/Sezenulupnr/SezenUlupinar-E-CommorceApp-UpSchool/files/13368696/SezenUlupinar-UPSchool.pdf)
 
 📹 Demo
