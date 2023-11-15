@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MagicTouch</string>
+
+    <string name="clear_all">TÜMÜNÜ SİL</string>
+    <string name="total_amount">TOPLAM</string>
+    <string name="buy">SATIN AL</string>
+
+</resources>

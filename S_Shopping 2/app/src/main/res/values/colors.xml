@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#ffeaddff</color>
+    <color name="bej">#FDF5E6</color>
+    <color name="kirikbeyaz">#F2F2F2</color>
+    <color name="blue">#0000ff</color>
+    <color name="a_yellow">#FFD003</color>
+    <color name="dark_blue">#11142B</color>
+    <color name="light_purple">#F3EBFF</color>
+    <color name="grey">#E1E1E1</color>
+    <color name="red">#ffcc0000</color>
+</resources>
