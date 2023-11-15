@@ -22,7 +22,9 @@ https://github.com/Sezenulupnr/SezenUlupinar-E-CommorceApp-UpSchool/assets/10452
 
 
 
+
 📸 Screenshots
+
 ![Ekran Görüntüsü (66)](https://github.com/Sezenulupnr/SezenUlupinar-E-CommorceApp-UpSchool/assets/104523675/908b2725-b852-4ca7-afe8-005afc2c2983)
 ![Ekran Görüntüsü (67)](https://github.com/Sezenulupnr/SezenUlupinar-E-CommorceApp-UpSchool/assets/104523675/4297aa60-a1ad-489a-a818-d39039d08067)
 ![Ekran Görüntüsü (68)](https://github.com/Sezenulupnr/SezenUlupinar-E-CommorceApp-UpSchool/assets/104523675/15d780cd-d946-42be-b653-24e9547725f5)
