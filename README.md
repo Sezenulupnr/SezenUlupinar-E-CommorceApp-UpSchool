@@ -23,7 +23,7 @@ https://drive.google.com/file/d/1AXHNM3M9CrVXjkxR4eYf71r4699MS0TN/view?usp=shari
 📹 Demo
 
 
-https://github.com/Sezenulupnr/SezenUlupinar-E-CommorceApp-UpSchool/assets/104523675/90b956dc-7812-496c-80b4-d92fcadf9b0d
+[https://github.com/Sezenulupnr/SezenUlupinar-E-CommorceApp-UpSchool/assets/104523675/90b956dc-7812-496c-80b4-d92fcadf9b0d](https://drive.google.com/file/d/1ediOs7SwR5D37CPcDHWUFTzoVCmPZHwC/view?usp=sharing)
 
 
 
